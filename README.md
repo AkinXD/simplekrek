@@ -8,4 +8,4 @@ $ git clone https://github.com/AkinXD/simplekrek
 
 $ cd simplekrek
 
-$ python run.py
+$ python krek.py
